@@ -1,6 +1,6 @@
 # Garrin Miller
 
-I'm Garrin Miller, a Software Engineering student at Brigham Young Uinversity Idaho. I am also minoring in Chinese, some things I like to do include playing games and sports, reading, listening to music, and hanging out with friends! 
+I'm Garrin Miller, a Software Engineering student at Brigham Young Uinversity Idaho. I am also minoring in Chinese. Some things I like to do include playing games and sports, reading, listening to music, and hanging out with friends! 
 
 
 ### Tools
